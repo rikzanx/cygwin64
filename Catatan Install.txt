@@ -1,3 +1,15 @@
+Instal setup cygwin64
+pasang packages dibawah ini
+- dos2unix
+- nano
+- openssh
+- rsync
+- vim
+
+copy file Remote-Server-Backup.sh ke folde cygwin64/bin
+buka program jalankan /bin/Remote-Server-Backup.sh
+jika public key belum ditambahkan silahkan tambahkan ke server
+
 chmod
 SSH folder	~/.ssh	700	drwx------
 Public key	~/.ssh/id_rsa.pub	644	-rw-r--r--
