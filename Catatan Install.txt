@@ -1,4 +1,5 @@
 Instal setup cygwin64
+#untuk windows 7 jalankan program dengan start di cmd kemudian tambahkan --allow-unsupported-windows --site http://ctm.crouchingtigerhiddenfruitbat.org/pub/cygwin/circa/64bit/2024/01/30/231215 --no-verify
 pasang packages dibawah ini
 - dos2unix
 - nano
